@@ -13,8 +13,9 @@ python, pythonOCC
 
 ## Features
 Reading .STEP files and converting them into easier to manage formats like .JSON is extremely important for research in Geometric Deep Learning. When I started this, I could not find a lot of resources available for working with pythonOCC and the Open Cascade documentation was too vast to cover for a single-use project like this. I hope this provides some kind of template for anyone who has to work with large 3D datasets.
-Markup: *The tool allows for easy conversion of a .STEP file into a .JSON file format.
-        *In addition to basic surface information, there is also a function that takes care of holes present in the object's surface.
+
+*The tool allows for easy conversion of a .STEP file into a .JSON file format.
+*In addition to basic surface information, there is also a function that takes care of holes present in the object's surface.
 
 
 ## Installation
