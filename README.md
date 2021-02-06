@@ -22,13 +22,13 @@ Reading .STEP files and converting them into easier to manage formats like .JSON
 For installation of the pythonOCC framework details, please refer https://github.com/tpaviot/pythonocc-core.
 
 ## Some Statistics obtained from ABC Dataset using the parser
-![Total Topology count](images/P1)
-![Surface Count by type](images/P2)
-![Surface Count as a percentage share](images/P3)
+![Total Topology count](./images/P1)
+![Surface Count by type](./images/P2)
+![Surface Count as a percentage share](./images/P3)
 
 ## STEP file visualized along with extracted B-spline surfaces
 ![STEP file from ABC Dataset](images/Step)
-![Surface 1](images/nurbs1)
-![Surface 2](images/nurbs2)
-![Surface 3](images/nurbs3)
-![Surface 4](images/nurbs4)
+![Surface 1](./images/nurbs1)
+![Surface 2](./images/nurbs2)
+![Surface 3](./images/nurbs3)
+![Surface 4](./images/nurbs4)
