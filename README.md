@@ -31,4 +31,4 @@ For installation of the pythonOCC framework details, please refer https://github
 ![Surface 1](./images/nurbs1.PNG)
 ![Surface 2](./images/nurbs2.PNG)
 ![Surface 3](./images/nurbs3.PNG)
-![Surface 4](./images/nurbs4PNG)
+![Surface 4](./images/nurbs4.PNG)
